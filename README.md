@@ -1,4 +1,5 @@
 # Introducción a HTML
+## Grupo 6
 
 Realizado por:
 - Stephanie Andreína Arismendi Escobar (alu0101351728@ull.edu.es)
